@@ -1,0 +1,6 @@
+@FileManipulation_WebAPI_HostAddress = http://localhost:5225
+
+GET {{FileManipulation_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

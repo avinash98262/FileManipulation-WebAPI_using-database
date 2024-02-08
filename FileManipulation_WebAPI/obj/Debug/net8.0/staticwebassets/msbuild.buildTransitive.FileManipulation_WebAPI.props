@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FileManipulation_WebAPI.props" />
+</Project>

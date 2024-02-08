@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1CUREpDwfb7wmD40ORevSYTUfZVKDOJIoQq/Y8oq2js=",
+  "Source": "FileManipulation_WebAPI",
+  "BasePath": "_content/FileManipulation_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
